@@ -1,7 +1,7 @@
 ## Salve galera eu sou o Nícolas, mas prefiro que me chamem de Rashy!
 
--Atualmente estudando Phyton e JavaScript
--Você pode entrar em contato comigo atraves do meu email: contato.rashy@gmail.com
+<p>Atualmente estudando Phyton e JavaScript<p>
+<p2>Você pode entrar em contato comigo atraves do meu email: contato.rashy@gmail.com<p2>
 
 <div align="center">
   <a href="https://github.com/rrashy">
@@ -23,5 +23,6 @@
   <a href="https://discord.io/rashy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.rashy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-     ![Snake animation](https://github.com/rrashy/rrashy/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+     ![Snake animation](https://github.com/rrashy/rrashy/blob/output/github-contribution-grid-snake.svg)
