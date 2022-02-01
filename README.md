@@ -1,6 +1,6 @@
-## Salve galera eu sou o Nícolas, mas prefiro que me chamem de Rashy!
+## Salve galera eu sou o Nícolas Almeida, mas prefiro que me chamem de Rashy!
 
-<p>Atualmente estudando Phyton e JavaScript<p>
+<p>Atualmente cursando na QI Técnico de Informatica<p>
 <p2>Você pode entrar em contato comigo atraves do meu email: contato.rashy@gmail.com ou clicando nos widgets abaixo 😀<p2>
 
 <div align="center">
