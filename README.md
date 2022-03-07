@@ -1,7 +1,7 @@
-## Salve galera eu sou o Nícolas Almeida, mas prefiro que me chamem de Rashy!
+## Hey guys, I'm Nícolas 'Rashy' Almeida, but I prefer to be called Rashy!
 
-<p>Atualmente cursando na QI Técnico de Informatica para internet na QI Escolas e Faculdades<p>
-<p2>Você pode entrar em contato comigo atraves do meu email: contato.rashy@gmail.com ou clicando nos widgets abaixo 😀<p2>
+<p>Im studying IT technician for internet at QI Escolas e Faculdades and currently im learning Mobile Development in the first module<p>
+<p2>You can contact me via my email: contato.rashy@gmail.com or by clicking on the widgets below😀<p2>
 
 <div align="center">
   <a href="https://github.com/rrashy">
