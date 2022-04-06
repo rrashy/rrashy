@@ -10,8 +10,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="end" alt="rrashy-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="end" alt="rrashy-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="end" alt="rrashy-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="end" alt="rrashy-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="end" alt="rrashy-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img aling="center" alt="rrashy-php" height="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="end" alt="rrashy-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
