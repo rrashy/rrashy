@@ -1,6 +1,6 @@
 ## Hey guys, I'm Nícolas 'Rashy' Almeida, but I prefer to be called Rashy!
 
-<p>Im studying IT technician for internet at QI College & Technical School<p>
+<p><p>
 <p2>You can contact me via my email: contato.rashy@gmail.com or by clicking on the widgets below😀<p2>
 
 <div align="center">
